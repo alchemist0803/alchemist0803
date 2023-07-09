@@ -18,9 +18,10 @@
 - 🔭 I’m currently working as a freelancer.
 
  ## Contact me
-- 📫 How to reach me: 
+- 📫 How to reach me:
+  
   skype ID: live:.cid.979cfe3c590a55e5 </br>
-  discord: https://discord.gg/N54x8wXs </br>
+  discord: https://discord.gg/vFQG7ArsDK </br>
   phoneNumber: +1 321 421 0742
   
 
@@ -86,10 +87,10 @@
 <!--   <a href="mailto:david.ilyin.990218@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a> -->
-  <a href="https://discord.gg/N54x8wXs">
+  <a href="https://discord.gg/vFQG7ArsDK">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
-  <a href="https://join.skype.com/invite/live:.cid.979cfe3c590a55e5" target="_blank">
+  <a href="https://join.skype.com/invite/w8sdCjfUJmrT" target="_blank">
     <img src="https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white" alt="Skype">
   </a>
 <!--   <a href="https://t.me/kendson" target="_blank">
