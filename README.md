@@ -22,8 +22,7 @@
   
   skype ID: live:.cid.979cfe3c590a55e5 </br>
   discord: https://discord.gg/vFQG7ArsDK </br>
-  phoneNumber: +1 321 421 0742
-  
+    
 
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
