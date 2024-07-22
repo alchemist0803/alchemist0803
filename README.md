@@ -1,4 +1,4 @@
-<!-- Thanks to https://github.com/AlexHong/github-profile-readme-generator -->
+<!--
 
 <header>
   <h1 align="center">Hi there! 👋</h1>
@@ -69,10 +69,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   </div>
 
-<!--Graph-->
 ![Alchemist0803's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alchemist0803&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
 
-<!--Skill And More Information-->
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alchemist0803&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alchemist0803&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
@@ -83,18 +81,13 @@
 </h1>
 
 <p align='center'>
-<!--   <a href="mailto:david.ilyin.990218@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a> -->
   <a href="https://discord.gg/vFQG7ArsDK">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
   <a href="https://join.skype.com/invite/w8sdCjfUJmrT" target="_blank">
     <img src="https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white" alt="Skype">
   </a>
-<!--   <a href="https://t.me/kendson" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-0078d4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a> -->
+
 </p>
 </section>
 
@@ -103,3 +96,4 @@
 ## Support me
 
 If you like my work and want to support me, you can sponsor me on GitHub. Your support will enable me to focus more on open-source projects. Those contributions will help me continue to learn, grow, and contribute to the open-source ecosystem.
+  -->
